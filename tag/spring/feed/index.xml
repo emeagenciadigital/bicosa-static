@@ -9,8 +9,8 @@
 
 <channel>
 	<title>spring &#8211; BICOSA</title>
-	<atom:link href="/tag/spring/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://bicosa.com/tag/spring/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bicosa.com/</link>
 	<description>El Arte de Vestir</description>
 	<lastBuildDate>Tue, 05 Nov 2013 10:00:14 +0000</lastBuildDate>
 	<language>es-CO</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/03/cropped-favicon_bicosa2-32x32.jpg</url>
+	<url>https://bicosa.com/wp-content/uploads/2022/03/cropped-favicon_bicosa2-32x32.jpg</url>
 	<title>spring &#8211; BICOSA</title>
-	<link>/</link>
+	<link>https://bicosa.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Discovery fashion trending of springlookbook last month</title>
-		<link>/discovery-fashion-trending-of-springlookbook-last-month/</link>
-					<comments>/discovery-fashion-trending-of-springlookbook-last-month/#respond</comments>
+		<link>https://bicosa.com/discovery-fashion-trending-of-springlookbook-last-month/</link>
+					<comments>https://bicosa.com/discovery-fashion-trending-of-springlookbook-last-month/#respond</comments>
 		
 		<dc:creator><![CDATA[b1c0s4Admin]]></dc:creator>
 		<pubDate>Tue, 05 Nov 2013 10:00:14 +0000</pubDate>
@@ -45,15 +45,15 @@
 <p>Ut tellus ligula, interdum a interdum ut, egestas ut ipsum. Vivamus viverra consequat ipsum, nec auctor dolor eleifend sit amet. Nulla cursus fringilla metus a dictum. Morbi condimentum nibh nec elit luctus interdum. Aliquam sit amet massa rutrum tellus sollicitudin varius nec vitae felis. Proin ex tellus, euismod et nibh et, tempus consequat dolor. Sed sed malesuada ipsum. Nullam sed ligula eget dui eleifend euismod sit amet in sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum elementum hendrerit.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/discovery-fashion-trending-of-springlookbook-last-month/feed/</wfw:commentRss>
+					<wfw:commentRss>https://bicosa.com/discovery-fashion-trending-of-springlookbook-last-month/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tim Berg &#8211; Fashionista, How to mix style so cool in spring</title>
-		<link>/tim-berg-fashionista-how-to-mix-style-so-cool-in-spring/</link>
-					<comments>/tim-berg-fashionista-how-to-mix-style-so-cool-in-spring/#respond</comments>
+		<link>https://bicosa.com/tim-berg-fashionista-how-to-mix-style-so-cool-in-spring/</link>
+					<comments>https://bicosa.com/tim-berg-fashionista-how-to-mix-style-so-cool-in-spring/#respond</comments>
 		
 		<dc:creator><![CDATA[b1c0s4Admin]]></dc:creator>
 		<pubDate>Mon, 04 Nov 2013 09:50:10 +0000</pubDate>
@@ -67,7 +67,7 @@
 <p>Ut tellus ligula, interdum a interdum ut, egestas ut ipsum. Vivamus viverra consequat ipsum, nec auctor dolor eleifend sit amet. Nulla cursus fringilla metus a dictum. Morbi condimentum nibh nec elit luctus interdum. Aliquam sit amet massa rutrum tellus sollicitudin varius nec vitae felis. Proin ex tellus, euismod et nibh et, tempus consequat dolor. Sed sed malesuada ipsum. Nullam sed ligula eget dui eleifend euismod sit amet in sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum elementum hendrerit.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/tim-berg-fashionista-how-to-mix-style-so-cool-in-spring/feed/</wfw:commentRss>
+					<wfw:commentRss>https://bicosa.com/tim-berg-fashionista-how-to-mix-style-so-cool-in-spring/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
