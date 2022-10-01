@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Linearicons';
-	src: url('/wp-content/themes/mrbara/fonts/Linearicons.eot?cjf741');
-	src: url('/wp-content/themes/mrbara/fonts/Linearicons.eot?cjf741#iefix') format('embedded-opentype'),
-	url('/wp-content/themes/mrbara/fonts/Linearicons.ttf?cjf741') format('truetype'),
-	url('/wp-content/themes/mrbara/fonts/Linearicons.woff?cjf741') format('woff'),
-	url('/wp-content/themes/mrbara/fonts/Linearicons.svg?cjf741#Linearicons') format('svg');
+	src: url('https://bicosa.com/wp-content/themes/mrbara/fonts/Linearicons.eot?cjf741');
+	src: url('https://bicosa.com/wp-content/themes/mrbara/fonts/Linearicons.eot?cjf741#iefix') format('embedded-opentype'),
+	url('https://bicosa.com/wp-content/themes/mrbara/fonts/Linearicons.ttf?cjf741') format('truetype'),
+	url('https://bicosa.com/wp-content/themes/mrbara/fonts/Linearicons.woff?cjf741') format('woff'),
+	url('https://bicosa.com/wp-content/themes/mrbara/fonts/Linearicons.svg?cjf741#Linearicons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
