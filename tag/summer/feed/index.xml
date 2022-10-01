@@ -9,8 +9,8 @@
 
 <channel>
 	<title>summer &#8211; BICOSA</title>
-	<atom:link href="/tag/summer/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://bicosa.com/tag/summer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bicosa.com/</link>
 	<description>El Arte de Vestir</description>
 	<lastBuildDate>Sat, 02 Nov 2013 03:00:34 +0000</lastBuildDate>
 	<language>es-CO</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/03/cropped-favicon_bicosa2-32x32.jpg</url>
+	<url>https://bicosa.com/wp-content/uploads/2022/03/cropped-favicon_bicosa2-32x32.jpg</url>
 	<title>summer &#8211; BICOSA</title>
-	<link>/</link>
+	<link>https://bicosa.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>How to choice swimming trunks forthis summer</title>
-		<link>/how-to-choice-swimming-trunks-forthis-summer/</link>
-					<comments>/how-to-choice-swimming-trunks-forthis-summer/#respond</comments>
+		<link>https://bicosa.com/how-to-choice-swimming-trunks-forthis-summer/</link>
+					<comments>https://bicosa.com/how-to-choice-swimming-trunks-forthis-summer/#respond</comments>
 		
 		<dc:creator><![CDATA[b1c0s4Admin]]></dc:creator>
 		<pubDate>Sat, 02 Nov 2013 03:00:34 +0000</pubDate>
@@ -45,7 +45,7 @@
 <p>Cras tincidunt egestas mollis. Nam vel scelerisque urna. Aenean tincidunt nunc ut fermentum sagittis. Maecenas commodo commodo sapien a ornare. Duis vestibulum ullamcorper purus, mattis finibus ipsum lacinia in. Vivamus dolor ligula, porttitor nec libero ut, faucibus maximus magna. Mauris et tempor ipsum. Proin nec turpis eros. Sed id nibh vel purus rhoncus efficitur at at sapien. Aliquam semper quis augue ac sodales. Sed erat nibh, fermentum ut feugiat quis, tincidunt non lorem. Phasellus ut posuere tortor, in hendrerit metus. Cras eu est sit amet diam dignissim viverra eu et leo. Donec urna ex, commodo aliquet bibendum nec, varius at nunc.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/how-to-choice-swimming-trunks-forthis-summer/feed/</wfw:commentRss>
+					<wfw:commentRss>https://bicosa.com/how-to-choice-swimming-trunks-forthis-summer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
