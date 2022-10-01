@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Entertaiment &#8211; BICOSA</title>
+	<atom:link href="/tag/entertaiment/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>El Arte de Vestir</description>
+	<lastBuildDate>Sun, 01 Sep 2013 01:00:44 +0000</lastBuildDate>
+	<language>es-CO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-favicon_bicosa2-32x32.jpg</url>
+	<title>Entertaiment &#8211; BICOSA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tropical house music for guys thatlove snow flower</title>
+		<link>/tropical-house-music-for-guys-thatlove-snow-flower/</link>
+					<comments>/tropical-house-music-for-guys-thatlove-snow-flower/#respond</comments>
+		
+		<dc:creator><![CDATA[b1c0s4Admin]]></dc:creator>
+		<pubDate>Sun, 01 Sep 2013 01:00:44 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Entertaiment]]></category>
+		<category><![CDATA[Music]]></category>
+		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=587</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur placerat eu lacus in facilisis. Vivamus sit amet imperdiet eros. Quisque condimentum eros at tortor hendrerit, non consectetur metus malesuada. Nam&#8230;]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur placerat eu lacus in facilisis. Vivamus sit amet imperdiet eros. Quisque condimentum eros at tortor hendrerit, non consectetur metus malesuada. Nam blandit nisl nisl. Nullam et leo ipsum. Etiam in elit in ex gravida convallis faucibus faucibus mauris. Curabitur faucibus nibh quis viverra finibus. Donec ligula leo, fringilla quis luctus at, posuere a neque. Nulla facilisi. In in elementum purus. Pellentesque gravida purus aliquam neque gravida, sit amet iaculis urna tincidunt. Quisque ut egestas turpis. Proin orci felis, convallis eu elit at, commodo sollicitudin eros. Vestibulum ullamcorper neque tellus. Integer varius tellus a hendrerit fermentum.</p>
+<blockquote><p>Fusce vel dolor et nibh facilisis tempus et eu quam. Aenean id turpis eget nisl malesuada ornare. Curabitur tristique est et erat finibus, eu rhoncus neque congue. Donec hendrerit erat et tellus ullamcorper mollis efficitur et justo.</p></blockquote>
+<p>Sed in odio faucibus, sagittis lacus eu, tempor erat. Praesent tincidunt convallis vulputate. Donec enim lectus, hendrerit quis sapien at, mattis consectetur dui. Mauris tincidunt accumsan molestie. Ut vel laoreet nulla, in euismod tortor. Vestibulum volutpat urna sit amet mi tempor, vitae dignissim eros rutrum. Sed sit amet metus ut dolor gravida porta rhoncus non augue. Aenean eleifend sagittis mattis. Nunc ac interdum enim. Maecenas lobortis suscipit aliquam. Donec at augue sit amet eros sollicitudin ultricies et nec lorem. Sed dapibus diam libero, vel egestas est fermentum bibendum. Nulla in vehicula neque. Suspendisse ultricies ipsum nisi, vitae egestas turpis tristique ac.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/tropical-house-music-for-guys-thatlove-snow-flower/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
