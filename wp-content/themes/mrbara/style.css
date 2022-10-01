@@ -7247,7 +7247,7 @@ div.aligncenter,
 }
 .ui-autocomplete-loading {
   background-size: 16px;
-  background: url(https://bicosa.com/wp-content/themes/mrbara/img/loading.gif) no-repeat 175px center;
+  background: url(/wp-content/themes/mrbara/img/loading.gif) no-repeat 175px center;
 }
 .ui-autocomplete {
   position: absolute;
