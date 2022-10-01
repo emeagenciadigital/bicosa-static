@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: ¡Hola, mundo!	</title>
-	<atom:link href="https://bicosa.com/hola-mundo/feed/" rel="self" type="application/rss+xml" />
-	<link>https://bicosa.com/hola-mundo/</link>
+	<atom:link href="/hola-mundo/feed/" rel="self" type="application/rss+xml" />
+	<link>/hola-mundo/</link>
 	<description>El Arte de Vestir</description>
 	<lastBuildDate>Mon, 21 Feb 2022 21:17:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Por: Un comentarista de WordPress		</title>
-		<link>https://bicosa.com/hola-mundo/#comment-1</link>
+		<link>/hola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
 		<pubDate>Mon, 21 Feb 2022 21:16:58 +0000</pubDate>
-		<guid isPermaLink="false">https://bicosa.com/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hola, esto es un comentario.
 Para empezar a moderar, editar y borrar comentarios, por favor, visita la pantalla de comentarios en el escritorio.
