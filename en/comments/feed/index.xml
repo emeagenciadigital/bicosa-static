@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for BICOSA	</title>
-	<atom:link href="/en/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://bicosa.com/en/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bicosa.com/</link>
 	<description>El Arte de Vestir</description>
 	<lastBuildDate>Sat, 23 Jul 2022 03:22:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
