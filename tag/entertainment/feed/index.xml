@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Entertainment &#8211; BICOSA</title>
-	<atom:link href="/tag/entertainment/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://bicosa.com/tag/entertainment/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bicosa.com/</link>
 	<description>El Arte de Vestir</description>
 	<lastBuildDate>Sun, 01 Dec 2013 05:00:39 +0000</lastBuildDate>
 	<language>es-CO</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/03/cropped-favicon_bicosa2-32x32.jpg</url>
+	<url>https://bicosa.com/wp-content/uploads/2022/03/cropped-favicon_bicosa2-32x32.jpg</url>
 	<title>Entertainment &#8211; BICOSA</title>
-	<link>/</link>
+	<link>https://bicosa.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Vans of The Wall &#8211; The favourite brandof young fashion</title>
-		<link>/vans-of-the-wall-the-favourite-brandof-young-fashion/</link>
-					<comments>/vans-of-the-wall-the-favourite-brandof-young-fashion/#respond</comments>
+		<link>https://bicosa.com/vans-of-the-wall-the-favourite-brandof-young-fashion/</link>
+					<comments>https://bicosa.com/vans-of-the-wall-the-favourite-brandof-young-fashion/#respond</comments>
 		
 		<dc:creator><![CDATA[b1c0s4Admin]]></dc:creator>
 		<pubDate>Sun, 01 Dec 2013 05:00:39 +0000</pubDate>
@@ -45,7 +45,7 @@
 <p>Aenean et mi hendrerit, eleifend massa at, efficitur nisl. Morbi purus magna, sollicitudin nec orci sed, cursus egestas ex. Vivamus neque ex, euismod ac magna blandit, auctor laoreet felis. Quisque lectus nisl, placerat eget maximus et, feugiat eget tellus. Aenean pellentesque fringilla ex, sit amet auctor neque porta vel. Curabitur vitae dictum dui, ut tristique diam. Ut lacinia vehicula sem, quis venenatis nulla. Sed lobortis vulputate luctus. Integer a elit a arcu commodo accumsan in a urna. Proin ut libero ornare, ornare lectus ac, tincidunt arcu. Nulla lobortis odio vel interdum pellentesque. Sed quis purus consectetur lectus ultricies sodales. Aenean lacinia arcu et malesuada volutpat. Maecenas tincidunt ex pellentesque velit egestas, ut laoreet tellus cursus. Etiam volutpat luctus felis, sed bibendum odio facilisis id.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/vans-of-the-wall-the-favourite-brandof-young-fashion/feed/</wfw:commentRss>
+					<wfw:commentRss>https://bicosa.com/vans-of-the-wall-the-favourite-brandof-young-fashion/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
